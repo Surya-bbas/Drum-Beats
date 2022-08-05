@@ -65,7 +65,7 @@ a:hover{
   background-color: red;
   opacity: 0.8;
 }
-
+ 
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;

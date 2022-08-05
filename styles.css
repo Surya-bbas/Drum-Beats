@@ -11,10 +11,14 @@ h1 {
 
 }
 
-footer {
-  color: #DBEDF3;
+a{
   font-family: sans-serif;
+  color: #DBEDF3;
 }
+a:hover{
+  color: #DA0463;;
+}
+
 
 .w {
   background-image: url("images/tom3.png");
